@@ -1,5 +1,4 @@
-This repository contains a project that aims to determine whether two questions are semantically similar. 
-The project leverages natural language processing (NLP) techniques to evaluate the semantic similarity of question pairs. 
+This repository contains a project that aims to determine whether two questions are semantically similar. The project leverages natural language processing (NLP) techniques to evaluate the semantic similarity of question pairs. 
 
 Dataset Link -[(https://www.kaggle.com/c/quora-question-pairs)]
 
